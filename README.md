@@ -35,3 +35,5 @@ https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson01_but
 ![image](https://github.com/miyachun/pico-hc05/blob/main/hc0501.jpg)  
 
 ![image](https://github.com/miyachun/pico-hc05/blob/main/hc0502.jpg)  
+
+![image](https://github.com/miyachun/pico-hc05/blob/main/hc0503.jpg)  
