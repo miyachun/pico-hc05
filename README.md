@@ -26,7 +26,10 @@ https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_ter
 https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson01_button.html  
 
 ![image](https://github.com/miyachun/pico-hc05/blob/main/con.jpg)  
-  
+
+python app.py --port XXXX --baud 9600  
+
+
 ![image](https://github.com/miyachun/pico-hc05/blob/main/hc0503.jpg)  
 
 ![image](https://github.com/miyachun/pico-hc05/blob/main/picoimg.png)  
