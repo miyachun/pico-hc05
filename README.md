@@ -16,7 +16,10 @@ activate
 
 -相關-  
 virtualenv->virtualenv -p python3.10 XXX  
-  
+
+-參考-  
+https://github.com/omega0verride/arduino_web_serial_monitor/tree/main  
+
 https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C912D24340
 
 https://thonny.org/
