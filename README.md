@@ -16,17 +16,17 @@ activate
 
 -相關-  
 virtualenv->virtualenv -p python3.10 XXX  
-
--參考-  
-https://github.com/omega0verride/arduino_web_serial_monitor/tree/main  
-
+  
 https://www.raspberrypi.com/documentation/microcontrollers/?version=E0C912D24340
-
+  
 https://thonny.org/
 
 https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=zh_TW
 
 https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson01_button.html  
+-參考-  
+https://github.com/omega0verride/arduino_web_serial_monitor/tree/main  
+
 
 ![image](https://github.com/miyachun/pico-hc05/blob/main/con.jpg)  
 
